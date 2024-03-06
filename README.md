@@ -13,7 +13,7 @@ THIS REPOSITORY MADE BY ABHI_SHARMA
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-psharma&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-SHARMA;Jay shri ram__💞;Coded+By+ABHI-SHARMA" alt="Typing SVG" /></a>
   
 
 - 👨‍💻 All friends  my Facebook link : - [https://www.facebook.com/profile.php?id=100093673451400&mibextid=ZbWKwL](https://www.facebook.com/profile.php?id=100093673451400&mibextid=ZbWKwL)
